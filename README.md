@@ -1,5 +1,5 @@
 # psplit
-Utility that splits big files to smaller ones by matching split points
+Utility that splits big files into smaller ones by matching split points
 
 ## Example use case: Huge SQL file with individual INSERTs that you want to parallelize
 
